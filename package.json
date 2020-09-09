@@ -1,0 +1,8 @@
+{
+  "name": "create-border-radius",
+  "version": "1.0.0",
+  "description": "Create an application to build border radius property.",
+  "main": "index.html",
+  "author": "Claudio <cbd@br.ibm.com>",
+  "license": "MIT"
+}
